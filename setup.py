@@ -32,7 +32,7 @@ setup(
     install_requires=[
         'six>=1.12.0',
         'promise==2.3',
-        'graphql-core < 3.0, >=2.0',
+        'graphql-core < 3.1.3, >=2.0',
         'graphene <= 3.0b6, >= 2.0',
         'botocore >= 1.12.54',
         'pynamodb >= 4.0.0, < 5.0.0',
