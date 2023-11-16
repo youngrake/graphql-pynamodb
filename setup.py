@@ -33,7 +33,7 @@ setup(
         'six>=1.12.0',
         'promise==2.3',
         'graphql-core < 3.0, >=2.0',
-        'graphene < 3.0, >= 2.0',
+        'graphene <= 3.0b6, >= 2.0',
         'botocore >= 1.12.54',
         'pynamodb >= 4.0.0, < 5.0.0',
         'singledispatch>=3.4.0.3',
